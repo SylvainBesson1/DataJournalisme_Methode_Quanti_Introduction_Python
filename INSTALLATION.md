@@ -1,6 +1,6 @@
 **Installation** écrite par **Alioscha Massein** Ingénieur d'étude en statistique
 *Maison des Sciences sociales et des Humanités (MSH) Lyon - Saint Etienne*  
-aljoscha.massein@msh-lse.fr
+alioscha.massein@msh-lse.fr
 
 # Préambule
 
