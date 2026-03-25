@@ -55,7 +55,7 @@ uv --version
 
 Pour installer, gérer, mettre à jour et supprimer Python, vous pouvez utiliser `uv` très simplement. Dans un terminal (ou un powershell), écrivez cette commande : 
 ````bash
-uv python3.12 install
+uv install  python3.12
 ````
 En utilisant cette commande, vous installez la version 3.12 de Python, celle que nous allons utiliser ici. Mais vous pourriez installer une autre version si vous le souhaitez. Vous pouvez voir l'ensemble des versions disponibles (et les versions que vous avez installé) à l'aide de la commande suivante : 
 ````bash
