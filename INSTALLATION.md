@@ -40,7 +40,7 @@ Le résultat devrait être le numéro de version de `uv` que vous avez installé
 Sur Linux ou MacOs, vous pouvez utiliser l'application **terminal** pour ouvrir votre interface en ligne de commande. Sur ces deux système d'exploitation UNIX, vous utilisez un langage qui s'appelle **shell** (bash, zsh, etc.) pour interagir avec votre ordinateur (et le terminal). Pour installer `uv`, vous pouvez utiliser la commande suivante : 
 ````bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
-### If you don't have curl install on your computer
+### Si vous n'avez pas installer curl sur votre ordinateur
 wget -qO- https://astral.sh/uv/install.sh | sh
 ````
 
