@@ -1,6 +1,6 @@
 **Installation** écrite par **Alioscha Massein** Ingénieur d'étude en statistique
 *Maison des Sciences sociales et des Humanités (MSH) Lyon - Saint Etienne*  
-aljoscha.massein@msh-lse.fr
+alioscha.massein@msh-lse.fr
 
 # Préambule
 
@@ -40,7 +40,7 @@ Le résultat devrait être le numéro de version de `uv` que vous avez installé
 Sur Linux ou MacOs, vous pouvez utiliser l'application **terminal** pour ouvrir votre interface en ligne de commande. Sur ces deux système d'exploitation UNIX, vous utilisez un langage qui s'appelle **shell** (bash, zsh, etc.) pour interagir avec votre ordinateur (et le terminal). Pour installer `uv`, vous pouvez utiliser la commande suivante : 
 ````bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
-### If you don't have curl install on your computer
+### Si vous n'avez pas installer curl sur votre ordinateur
 wget -qO- https://astral.sh/uv/install.sh | sh
 ````
 
@@ -55,7 +55,7 @@ uv --version
 
 Pour installer, gérer, mettre à jour et supprimer Python, vous pouvez utiliser `uv` très simplement. Dans un terminal (ou un powershell), écrivez cette commande : 
 ````bash
-uv python3.12 install
+uv python install python3.12
 ````
 En utilisant cette commande, vous installez la version 3.12 de Python, celle que nous allons utiliser ici. Mais vous pourriez installer une autre version si vous le souhaitez. Vous pouvez voir l'ensemble des versions disponibles (et les versions que vous avez installé) à l'aide de la commande suivante : 
 ````bash
